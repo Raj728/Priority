@@ -1,0 +1,5 @@
+com\tatsum\controller\PriorityController.class
+com\tatsum\PriorityApplication.class
+com\tatsum\priority\Priority.class
+com\tatsum\repository\Repository.class
+com\tatsum\DAO\PriorityDAO.class
